@@ -1,7 +1,7 @@
 # Cybersecurity Assessment Report
 
 **Client:** [NEC Corporation]  
-**Date:** [June 20, 2024]  
+**Date:** [May 19, 2024]  
 **Prepared by:** [Andrey B. Babol] and [Arlan B. Imperial]
 
 ## 1. Introduction
